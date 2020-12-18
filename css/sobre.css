@@ -1,5 +1,6 @@
 .interna_sobre {
   background: url("../img/bg-sobre.jpg") no-repeat center;
+  background-size: cover;
 }
 
 .missao_sobre {
@@ -18,6 +19,7 @@
   font-size: 18px;
   line-height: 30px;
   list-style-type: square;
+  margin-left: 13px;
 }
 
 .foto-equipe {
